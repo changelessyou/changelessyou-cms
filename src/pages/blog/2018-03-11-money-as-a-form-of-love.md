@@ -4,6 +4,8 @@ title: Money as a Form of Love
 date: 2018-03-11T13:21:09.952Z
 description: Love draws money into our lives.
 ---
+![An abundance of fresh food.](/img/abundance.jpeg)
+
 Many people think of money as something corrupt. The reputation is there because of the lengths to which people will go to receive money, and not because of what money stands for in itself. There has been a confusion between means and ends. Money is a means, not an end.
 
 Money is not meant to make you pursue work that makes you unhappy and that you have little talent for. It is not meant to evoke resentment and self-centered behavior. It is meant to empower you. Just like a mother’s milk empowers her child to live and grow. The money is the support system that provides you the means to live in modern society. It gives you the security you need to create, learn and communicate in a physical plane.
