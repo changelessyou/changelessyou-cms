@@ -1,19 +1,15 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Changeless You
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+I am just an ordinary person, and whatever efforts I make could end up being too little too late, but you can rest assured that none of these efforts will be aimed at turning you into a child-figured shell with sink-white teeth, but rather at allowing me to be the change I want to see in the world.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+When I was a child I could spend hours sitting still. Though to an outsider it may have seemed like nothing was happening, in my head, new lands were discovered, love conquered all obstacles and evil was abolished through heroic actions. The stories I invented often unfolded over generations and left me with a feeling of comfort and contentment.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Now that I am an adult I rarely have the patience or desire to sit still and imagine. There are ever fewer great victories and romances to look forward to, evil often wins, and all the lands have already been mapped out.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Yet I refuse to succumb to the mundane, always aware of who I am. For it is compromising ourselves that robs us of our vitality, and it is by guarding our vitality and zest for life, knowledge and unity that we flourish.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Who’d want to wonder the halls of the world for a thousand years, after all curiosity has passed, all loves have passed on, and all other people are but children; fearful, bold immature and unchallenging to ones thought?
+
+Hence this website is not to help our physical bodies become immortal, but to help other people rediscover themselves and use their interests and inner freedom to be and look well, have fun, and to not compromise. And let longevity and all other good things follow, until it is time to write a new story.
