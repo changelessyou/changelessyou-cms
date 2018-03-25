@@ -3,8 +3,9 @@ templateKey: blog-post
 title: Money as a Form of Love
 date: 2018-01-27T09:00:29+01:00
 description: Love draws money into our lives.
+featuredImage: './img/abundance.jpeg'
 ---
-![An abundance of fresh food.](/img/abundance.jpeg)
+![An abundance of fresh food.](./img/abundance.jpeg)
 
 Many people think of money as something corrupt. The reputation is there because of the lengths to which people will go to receive money, and not because of what money stands for in itself. There has been a confusion between means and ends. Money is a means, not an end.
 

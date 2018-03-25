@@ -15,6 +15,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             }
             frontmatter {
               templateKey
+              featuredImage {
+                childImageSharp {
+                    sizes(maxWidth: 1000) {
+                        originalImg
+                    }
+                }
+              }
             }
           }
         }

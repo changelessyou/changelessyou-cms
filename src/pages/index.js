@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Img from 'gatsby-image'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -20,6 +21,8 @@ export default class IndexPage extends React.Component {
                 style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
                 key={post.id}
               >
+                <Link to={post.fields.slug} className="front-post-image"><Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes} />
+                </Link>
                 <p>
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
@@ -57,6 +60,13 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            featuredImage {
+              childImageSharp {
+                  sizes(maxWidth: 180) {
+                      ...GatsbyImageSharpSizes
+                  }
+              }
+            }
           }
         }
       }

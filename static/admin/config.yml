@@ -4,7 +4,7 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: static/img
+media_folder: src/pages/img
 public_folder: /img
 
 collections:
@@ -19,6 +19,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
 
   - name: "pages"
     label: "Pages"
